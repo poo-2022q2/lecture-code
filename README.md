@@ -1,2 +1,2 @@
-# lecture-code
-Códigos desenvolvidos nas aulas
+# Códigos desenvolvidos nas aulas
+Projetos que precisem de configurações adicionais, possuem READMEs próprios.
