@@ -1,0 +1,74 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch AlphaBlendingPictureBackground",
+            "request": "launch",
+            "mainClass": "AlphaBlendingPictureBackground",
+            "projectName": "aula04-objects-ii",
+            "args": "data/mandrill.jpg data/darwin.jpg 0.5"
+        },
+        {
+            "type": "java",
+            "name": "Launch AlphaBlending",
+            "request": "launch",
+            "mainClass": "AlphaBlending",
+            "projectName": "aula04-objects-ii",
+            "args": "data/mandrill.jpg 255 255 255 0.3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch ColorVisualizer",
+            "request": "launch",
+            "mainClass": "ColorVisualizer",
+            "projectName": "aula04-objects-ii"
+        },
+        {
+            "type": "java",
+            "name": "Launch FadeEffect",
+            "request": "launch",
+            "mainClass": "FadeEffect",
+            "projectName": "aula04-objects-ii",
+            "args": "500 data/mandrill.jpg data/darwin.jpg"
+        },
+        {
+            "type": "java",
+            "name": "Launch Grayscale",
+            "request": "launch",
+            "mainClass": "Grayscale",
+            "projectName": "aula04-objects-ii"
+        },
+        {
+            "type": "java",
+            "name": "Launch LuminanceLib",
+            "request": "launch",
+            "mainClass": "LuminanceLib",
+            "projectName": "aula04-objects-ii"
+        },
+        {
+            "type": "java",
+            "name": "Launch Scale",
+            "request": "launch",
+            "mainClass": "Scale",
+            "projectName": "aula04-objects-ii",
+            "args": "data/mandrill.jpg 600 200"
+        },
+        {
+            "type": "java",
+            "name": "Launch Tester",
+            "request": "launch",
+            "mainClass": "Tester",
+            "projectName": "aula04-objects-ii"
+        }
+    ]
+}
