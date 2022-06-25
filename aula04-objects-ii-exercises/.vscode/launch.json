@@ -31,7 +31,8 @@
             "name": "Launch ColorVisualizer",
             "request": "launch",
             "mainClass": "ColorVisualizer",
-            "projectName": "aula04-objects-ii"
+            "projectName": "aula04-objects-ii",
+            "args": "255 255 255 0 0 0"
         },
         {
             "type": "java",
